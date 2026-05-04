@@ -1,0 +1,55 @@
+# Research Plan — Group 1
+
+**Sprint week:** Week 1 (16–20 March 2026)
+**Lead:** Md Hossain (UX Research and Validation Lead)
+**Reviewers:** Mirazur Rahman Tonim (Project Lead), full team
+**Source repo:** `/research/transcripts`
+
+## Goal
+
+Validate the three pain points HiveMind asked us to test against the Christoph persona — cognitive load, system fragmentation, and lack of a single trustworthy source of company knowledge — through real conversations with working professionals.
+
+## Sample
+
+6 working professionals, recruited through team networks. Per the student handbook, **no students** — only people with real workplace experience.
+
+| ID | Sector | Role seniority | Interviewer |
+|---|---|---|---|
+| P1 | Retail | Mid-level | Mirazur Rahman Tonim |
+| P2 | Hospitality | Mid-level | Md Hossain |
+| P3 | Junior software | Early career | Pranish Shrestha |
+| P4 | NHS admin | Mid-level | Ibrahim |
+| P5 | Accounting | Mid-level | Pritesh Kumar Sah |
+| P6 | Customer service | Mid-level | Nakibul Hasan Alif |
+
+## Schedule
+
+All six interviews completed Wednesday–Friday of Week 1. Each session: 25–30 minutes, by phone or video call. Notes captured live and uploaded as transcripts to `/research/transcripts/`.
+
+## Cross-group coordination
+
+Interview questions were cross-checked in the cohort-wide Research and Testing check-in so all six groups asked roughly the same things. This makes findings comparable across the cohort.
+
+## Interview questions (6 neutral, open-ended)
+
+The questions were deliberately broad to avoid leading the participant toward our hypotheses.
+
+1. Tell me about your first two weeks at your current job. What did you spend most of your time doing?
+2. When you needed to find a piece of information at work — a policy, a process, a contact — where did you usually start? Walk me through the last time that happened.
+3. Have you ever wanted to ask a question at work but decided not to? What stopped you?
+4. How many different tools or apps do you use in a typical workday? Is that a problem for you, or is it fine?
+5. Have you used any AI tools at work? If yes, did you trust them? Why or why not?
+6. If you could change one thing about how new people are onboarded at your company, what would it be?
+
+## Consent
+
+Before each interview, participants were told:
+- The recording would be used only for academic and product-discovery purposes.
+- They could stop the interview at any time.
+- Their name and employer would not appear in the transcripts (sectors only).
+
+## Outputs
+
+- 6 transcripts in `/research/transcripts/`
+- Affinity-clustered synthesis in `/research/synthesis.md`
+- 4 hypotheses in `/docs/hypotheses.md`
